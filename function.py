@@ -44,3 +44,4 @@ def hitung_diskon(total_belanja):
 print(f"Pelanggan 1 bayar: {hitung_diskon(200000)}")
 print(f"Pelanggan 2 bayar: {hitung_diskon(45000)}")
 print(f"Pelanggan 3 bayar: {hitung_diskon(100000)}")
+print(f"Pelanggan 4 bayar: {hitung_diskon(50000)}")

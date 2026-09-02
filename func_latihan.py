@@ -2,7 +2,7 @@ def greet(name):
     return f"Halo, {name}!"
 
 
-# Memanggil
+# MemanggilW
 pesan = greet("Dunia")
 print(pesan)
 
