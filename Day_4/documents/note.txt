@@ -1,0 +1,14 @@
+for → ketika kita mengiterasi sesuatu yang sudah jelas/tersedia. ("setiap apa?")
+while → ketika kita ingin terus mengulang selama suatu kondisi terpenuhi. ("sampai kapan?")
+
+| Struktur | Gunanya                             |
+| -------- | ----------------------------------- |
+| `list`   | Banyak data berurutan               |
+| `tuple`  | Banyak data yang tidak ingin diubah |
+| `dict`   | Data dengan pasangan key-value      |
+| `set`    | Data unik                           |
+
+
+FUNCTION
+Parameter = tempat menerima data.
+Argument = data yang kita kirimkan.
